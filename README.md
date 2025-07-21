@@ -515,7 +515,7 @@ SOFTWARE.
 
 If you need help or have questions:
 
-- **📧 Email**: [your-email@example.com]
+- **📧 Email**: roboticsengineering.re@gmail.com
 - **🐛 Issues**: [GitHub Issues](https://github.com/yourusername/tasknest-react-spring-mongo/issues)
 - **💬 Discussions**: [GitHub Discussions](https://github.com/yourusername/tasknest-react-spring-mongo/discussions)
 - **📖 Documentation**: Check this README and inline code comments
